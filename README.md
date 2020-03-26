@@ -11,3 +11,5 @@ The ResNet training requires specifying the following parameters (see the descri
 ```
 total_samples, batch_size, random_sampler, num_epochs, num_blocks, name
 ```
+
+The requirements file is combined for Keras and PyTorch. 
