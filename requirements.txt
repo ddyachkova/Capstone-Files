@@ -138,7 +138,7 @@ tornado==5.1.1
 tqdm==4.40.0
 traitlets==4.3.3
 typing-extensions==3.7.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 vsts==0.1.25
 vsts-cd-manager==1.0.2
 wcwidth==0.1.7
